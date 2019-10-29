@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reserve in a hotel in trivago" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-27T23:20:54" hostname="ANGIEZAPATA" time="112.965">
+  <properties/>
+  <testcase name="The user a hotel reserve with their respective data" classname="Reserve in a hotel in trivago" time="112.965"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 11613
+Only local connections are allowed.
+[1572218504.843][WARNING]: Timed out connecting to Chrome, retrying...
+oct 27, 2019 6:21:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: The user a hotel reserve with their respective data
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
